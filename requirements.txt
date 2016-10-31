@@ -1,0 +1,8 @@
+dj-database-url==0.4.1
+dj-static==0.0.6
+Django==1.10.2
+python-decouple==3.0
+static3==0.7.0
+tree==0.1.0
+gunicorn==19.4.1
+psycopg2=2.6.1
