@@ -20,7 +20,7 @@ Sistema de eventos
  cp contrib/env-sample .env
  python manage.py test
  ```
- ## Como fazer o deploy?
+## Como fazer o deploy?
  1. Crie uma instancia no heroku
  2. Envie as configurações para o heroku
  3. Define uma SECRET_KEY segura
