@@ -9,7 +9,7 @@ Sistema de eventos
  3. Ative o virtualenv
  4. Instale as dependencias
  5. Configure a instancia com o .env
- 6. Execute os testes.
+ 6. Execute os seguintes passos.
  
  ```console
  git clone git@github.com:ariadyneoliveira/prj_wttd_eventex.git wttd
